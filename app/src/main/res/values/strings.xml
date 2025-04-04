@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rutas de Xochipilli</string>
+    <string name="bottom_navigation_icon_description">Icono de %s</string>
+    <string name="visitar">Visitar</string>
+    <string name="viajar">Viajar</string>
+    <string name="retos">Retos</string>
+</resources>
